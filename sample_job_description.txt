@@ -1,0 +1,6 @@
+Data Analyst Intern
+
+We are looking for an analytical intern to clean and analyse business data, build dashboards,
+and communicate insights to stakeholders. Required skills: Python, SQL, Excel, Pandas,
+data visualization, statistics, Power BI, and problem solving. Familiarity with Git and
+machine learning is a plus.

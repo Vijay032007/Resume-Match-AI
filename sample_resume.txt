@@ -1,0 +1,13 @@
+AARAV SHARMA
+Computer Science Student | aspiring Data Analyst
+
+EDUCATION
+B.Tech in Computer Science, 2023-2027
+
+SKILLS
+Python, SQL, Pandas, NumPy, scikit-learn, Excel, Power BI, Git, data visualization,
+machine learning, statistics, communication, problem solving
+
+PROJECTS
+Built a student performance prediction model using Python and scikit-learn. Created
+interactive dashboards in Power BI and cleaned datasets using Pandas.
